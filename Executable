@@ -4,7 +4,7 @@ echo "Hallooo"
 
 sleep 2
 
-echo "This is a test to see if I can Execute this in windows"
+echo "This is a test"
 
 sleep 3
 
